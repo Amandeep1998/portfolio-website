@@ -10,8 +10,8 @@ const Hero = () => {
       <h1><span>I'm Amandeep Saini,</span> frontend developer based in Navi Mumbai.</h1>
       <p>I am a frontend developer from Navi Mumbai, India with 1.5+ years of experience.</p>
       <div className="hero-action">
-        <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
-        <div className="hero-resume">My resume</div>
+        {/* <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div> */}
+        {/* <div className="hero-resume">My resume</div> */}
       </div>
     </div>
   )
